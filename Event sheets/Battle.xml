@@ -124,7 +124,7 @@
                     </conditions>
                     <actions>
                         <action id="0" name="Play" sid="4080759880781125" type="Audio">
-                            <param id="0" name="Audio file">mus_zz_megalovania</param>
+                            <param id="0" name="Audio file">mus_zz_megalovania.ogg</param>
                             <param id="2" name="Loop">1</param>
                             <param id="3" name="Volume">0</param>
                             <param id="1" name="Tag (optional)">&quot;Music&quot;</param>
